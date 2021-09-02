@@ -1,0 +1,156 @@
+.App{
+
+z-index: 99;
+
+    
+}
+
+
+.nav-car {
+
+    position: absolute;
+    width: 800px;
+    height: 44px;
+    left: 420px;
+    top: 20px;
+
+    background: rgba(0, 0, 0, 0.42);
+
+}
+
+.nav-text-style {
+    text-decoration: none;
+    display: inline-block;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 28px;
+    margin-right: 50px;
+    margin-left: 10px;
+    line-height: 39px;
+    text-align: center;
+    color: #FFFFFF;
+}
+.logo-car{
+    position: absolute;
+    width: 213.74px;
+    height: 142.49px;
+    left: 0px;
+    top: -24.49px;
+    color:rgba(222, 222, 222, 1);
+    font-family: Comic Sans MS;
+    font-style: italic;
+    font-weight: bold;
+    font-size: 41.157px;
+    line-height: 51px;
+    text-align: center;
+    text-transform: capitalize;
+    font-feature-settings: 'tnum' on, 'onum' on;
+    
+    text-shadow: 0px 4.26308px 4.26308px rgba(0, 0, 0, 0.25);
+
+
+}
+.logo-div-car{
+    position: absolute;
+
+    width: 250px;
+    height: 200px;
+    left: 10%;
+    margin-top: 0%;
+    top: 0px;
+    
+    
+    background: rgba(196, 196, 196, 0);
+    
+}
+.div-card{
+    position: absolute;
+    margin-left: 110px;
+    width: 1180px;
+    height: 460px;
+    margin-top: 10%;
+    flex-direction: row;
+    display: inline-flex;
+    /* background-color: red; */
+
+}
+.cardcars{
+    border-radius: 5px;
+    padding: 2px;
+    flex-direction: column;
+    display: inline-flex;
+    
+    width:  289px;
+    height: 440.5px;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 20px;
+    right: 3.61%;
+   
+    
+    background: rgba(0, 0, 0, 0.753);
+    opacity: none;
+
+}
+.cardcars:hover{
+
+
+    background: rgb(0, 0, 0);
+    opacity: 2.5;
+
+}
+.cardcars-images{
+  
+    width:  289px;
+    height: 208.25px;
+   
+    /* background-color: blue; */
+
+}
+.cardcars-images-body{
+    width:  289px;
+    height: 208.25px;
+    
+    
+}
+.cardcars-description{
+    
+    width:  289px;
+    height: 208.25px;
+    /* background-color:hotpink; */
+
+}
+.cardcars-description-text{
+    margin-left: 50px;
+    text-align: left;
+    font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 18.7667px;
+line-height: 26px;
+
+color: #FFFFFF;
+}
+.cardcars-description-text-price{
+    
+    text-align: center;
+    font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 18.7667px;
+line-height: 26px;
+
+color: #59d46996;
+}
+
+li:hover{
+
+    opacity: 0.5;
+    color: rgb(124, 124, 124);
+}
+
+:root {
+    --animate-duration: 2s;
+  }
+

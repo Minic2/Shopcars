@@ -1,12 +1,24 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+body{
+  
+  /* background-image: url(./img/carbody.jpg) ; */
+  background-size:cover;
+  margin:0;
+  background-repeat: no-repeat;
+  /* filter: blur(2px); */
+  /* background: linear-gradient(180deg, #FFFFFF 0%, rgba(255, 255, 255, 0) 100%), linear-gradient(180deg, #FFFFFF 0%, rgba(255, 255, 255, 0) 100%), #FFFFFF; */
 }
-
+ body:before {
+  filter: blur(0.3px);
+  content: "";
+  position: absolute;
+  height: 20%; 
+  width: 20%;
+  background: url(./img/carbody.jpg);
+  background-size: cover;
+  z-index: -1;
+  -webkit-transform: scale(5);
+  -webkit-transform-origin: top left;
+} 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
