@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Shopcars/static/css/main.f8ef951c.chunk.css",
+    "main.css": "/Shopcars/static/css/main.86babc31.chunk.css",
     "main.js": "/Shopcars/static/js/main.258c29fc.chunk.js",
     "main.js.map": "/Shopcars/static/js/main.258c29fc.chunk.js.map",
     "runtime-main.js": "/Shopcars/static/js/runtime-main.67397473.js",
@@ -10,9 +10,9 @@
     "static/js/3.75f75690.chunk.js": "/Shopcars/static/js/3.75f75690.chunk.js",
     "static/js/3.75f75690.chunk.js.map": "/Shopcars/static/js/3.75f75690.chunk.js.map",
     "index.html": "/Shopcars/index.html",
-    "static/css/main.f8ef951c.chunk.css.map": "/Shopcars/static/css/main.f8ef951c.chunk.css.map",
+    "static/css/main.86babc31.chunk.css.map": "/Shopcars/static/css/main.86babc31.chunk.css.map",
     "static/js/2.1f6e11de.chunk.js.LICENSE.txt": "/Shopcars/static/js/2.1f6e11de.chunk.js.LICENSE.txt",
-    "static/media/index.css": "/Shopcars/static/media/carbodyreduced.45971cc3.jpg",
+    "static/media/index.css": "/Shopcars/static/media/carbodyreduced1920x1440.3b7fd9bd.jpg",
     "static/media/icon.css": "/Shopcars/static/media/logotipo-de-whatsapp.c8689e8f.svg",
     "static/media/logo.6ce24c58.svg": "/Shopcars/static/media/logo.6ce24c58.svg",
     "static/media/nissangtr2.3eba549c.jpg": "/Shopcars/static/media/nissangtr2.3eba549c.jpg",
@@ -22,7 +22,7 @@
   "entrypoints": [
     "static/js/runtime-main.67397473.js",
     "static/js/2.1f6e11de.chunk.js",
-    "static/css/main.f8ef951c.chunk.css",
+    "static/css/main.86babc31.chunk.css",
     "static/js/main.258c29fc.chunk.js"
   ]
 }
